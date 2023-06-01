@@ -1,3 +1,4 @@
+//sets up routes for three different resources: categories, products, and tags.
 const router = require('express').Router();
 const categoryRoutes = require('./category-routes');
 const productRoutes = require('./product-routes');

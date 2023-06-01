@@ -1,3 +1,4 @@
+//sets up an Express.js server that listens for incoming HTTP requests and connects to a Sequelize database.
 const express = require('express');
 const routes = require('./routes');
 // import sequelize connection

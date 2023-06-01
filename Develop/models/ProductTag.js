@@ -1,3 +1,4 @@
+//This code defines a Sequelize model for a "ProductTag" table in a database
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');

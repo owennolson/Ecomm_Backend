@@ -1,3 +1,4 @@
+//This code is setting up the associations between four models: Product, Category, Tag, and ProductTag.
 // import models
 const Product = require('./Product');
 const Category = require('./Category');

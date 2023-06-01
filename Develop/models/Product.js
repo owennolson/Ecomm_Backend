@@ -1,3 +1,4 @@
+//This code defines a Sequelize model for a "Product" table in a database
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
 // import our database connection from config.js

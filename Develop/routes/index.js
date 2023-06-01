@@ -1,3 +1,4 @@
+//defines a router in an Express.js application and sets up routes for an API.
 const router = require('express').Router();
 const apiRoutes = require('./api');
 
